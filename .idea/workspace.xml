@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cdbfebd-f7cf-43e0-acad-363ba448bc67" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Hello0614.java" afterPath="$PROJECT_DIR$/src/main/java/Hello0614.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -570,7 +570,7 @@
       <option name="presentableId" value="Default" />
       <updated>1497408910763</updated>
       <workItem from="1497408912339" duration="4066000" />
-      <workItem from="1497423698593" duration="854000" />
+      <workItem from="1497423698593" duration="1006000" />
     </task>
     <task id="LOCAL-00001" summary="commit the modify to branch">
       <created>1497409171751</created>
@@ -618,7 +618,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4920000" />
+    <option name="totallyTimeSpent" value="5072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1936" height="1056" extended-state="1" />
