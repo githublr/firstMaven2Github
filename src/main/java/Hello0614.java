@@ -4,5 +4,6 @@
 public class Hello0614 {
     public static void main(String[] args) {
         System.out.println("hello0614");
+        System.out.println("test new");
     }
 }
