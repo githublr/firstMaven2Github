@@ -5,5 +5,6 @@ public class Helloworld {
     public static void main(String[] args) {
         System.out.println("lirui2");
         System.out.println("lirui0614");
+        System.out.println("enenenen");
     }
 }
